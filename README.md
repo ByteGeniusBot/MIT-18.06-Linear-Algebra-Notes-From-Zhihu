@@ -2,7 +2,7 @@
  线性代数笔记(from:https://www.zhihu.com/people/san-shao-ye-de-jian-37) Linear Algebra Notes
  # 线性代数笔记 - Zhihu博主“三少爷的键”
 
-这个项目包含了知乎博主“三少爷的键”(web:https://www.zhihu.com/people/san-shao-ye-de-jian-37)关于MIT 18.06 线性代数课程的精华笔记。这些笔记涵盖了从基础概念到高级应用的广泛内容，适合任何对线性代数感兴趣的学习者。
+这个项目包含了知乎博主“三少爷的键”(web:https://www.zhihu.com/people/san-shao-ye-de-jian-37) 关于MIT 18.06 线性代数课程的精华笔记。这些笔记涵盖了从基础概念到高级应用的广泛内容，适合任何对线性代数感兴趣的学习者。
 
 ## 内容概述
 
